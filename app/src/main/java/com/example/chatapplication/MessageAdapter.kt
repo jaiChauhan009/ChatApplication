@@ -57,3 +57,5 @@ class MessageAdapter(val context: Context,
         val receivedMessage= itemView.findViewById<TextView>(R.id.txt_received_message)
     }
 }
+
+
